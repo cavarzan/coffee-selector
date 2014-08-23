@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c90f2f0-f540-4cf9-996f-0a2dad58dbea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/yeoman.5cff96e1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/main.147a1c04.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/oldieshim.ff90b0fb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/scripts.93dfba45.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendor.9d972562.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/vendor.cba2c150.css" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\404.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\images\yeoman.5cff96e1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\scripts\oldieshim.ff90b0fb.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\scripts\scripts.93dfba45.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\scripts\vendor.9d972562.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\styles\main.147a1c04.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\styles\vendor.cba2c150.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\views\about.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\development\projects\github\cavarzan\coffee-selector\views\main.html" afterPath="" />
     </list>
     <ignored path="coffee-selector.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -307,20 +307,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coffee-selector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coffee-selector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -541,12 +527,12 @@
       <created>1408815249496</created>
       <option name="number" value="Default" />
       <updated>1408815249496</updated>
-      <workItem from="1408815250012" duration="10697000" />
+      <workItem from="1408815250012" duration="10819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10697000" />
+    <option name="totallyTimeSpent" value="10819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
