@@ -74,6 +74,10 @@ angular.module('coffeeSelectorApp')
 
         $scope.process = function () {
             $scope.items = $scope.shuffle($scope.items);
+            $scope.items = $scope.shuffle($scope.items);
+            $scope.items = $scope.shuffle($scope.items);
+            $scope.items = $scope.shuffle($scope.items);
+            $scope.items = $scope.shuffle($scope.items);
             $scope.spinner = true;
             var index = 0;
             var time = 100;

@@ -2,7 +2,7 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
-    background-color: #27ae60;
+    background-color: #3498db;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -25,14 +25,14 @@ h1 {
 .shadows-h2 {
     font-family: 'Shadows Into Light Two', cursive;
     color : #ecf0f1;
-    background-color: #2ecc71;
+    background-color: #2980b9;
     padding: 15px;
     border-radius: 8px;
 }
 
 .hovered :hover {
     cursor: pointer;
-    background-color: rgba(0, 187, 135, 0.9);
+    background-color: #2980b9;
 }
 
 .center {
@@ -41,8 +41,8 @@ h1 {
 }
 
 .hr {
-    color: #2ecc71;
-    background-color: #2ecc71;
+    color: #3498db;
+    background-color: #3498db;
 }
 
 .clouds {
