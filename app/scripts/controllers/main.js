@@ -80,12 +80,13 @@ angular.module('coffeeSelectorApp')
             for (var i = 0; i< 50; i++) {
                 time = (time) * 1.1;
                 $timeout(function () {
-                    $scope.transient = $scope.items[Math.floor(Math.random() * $scope.items.length)].nome;
                     index++;
                     if (index === 50) {
                         $scope.spinner = false;
                         $scope.result = true;
                         $scope.sortudo = $scope.transient;
+                    } else {
+                        $scope.transient = $scope.items[Math.floor(Math.random() * $scope.items.length)].nome;
                     }
                 }, time);
             }
