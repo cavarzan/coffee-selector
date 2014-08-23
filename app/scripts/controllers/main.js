@@ -50,7 +50,6 @@ angular.module('coffeeSelectorApp')
         };
 
         $scope.calcular = function () {
-            console.log($scope.pessoas);
             localStorage.setItem('pessoas', angular.toJson($scope.pessoas));
             $scope.items = angular.copy($scope.pessoas);
             $scope.showButton = false;
@@ -81,11 +80,12 @@ angular.module('coffeeSelectorApp')
             $scope.spinner = true;
             var index = 0;
             var time = 100;
-            for (var i = 0; i< 50; i++) {
+            var iterations = 50 + Math.ceil((15 * Math.random()));
+            for (var i = 0; i< iterations; i++) {
                 time = (time) * 1.1;
                 $timeout(function () {
                     index++;
-                    if (index === 50) {
+                    if (index === iterations) {
                         $scope.spinner = false;
                         $scope.result = true;
                         $scope.sortudo = $scope.transient;
