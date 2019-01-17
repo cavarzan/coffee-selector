@@ -80,7 +80,7 @@ angular.module('coffeeSelectorApp')
             $scope.spinner = true;
             var index = 0;
             var time = 100;
-            var iterations = 50 + Math.ceil((15 * Math.random()));
+            var iterations = 25 + Math.ceil((15 * Math.random()));
             for (var i = 0; i< iterations; i++) {
                 time = (time) * 1.1;
                 $timeout(function () {
